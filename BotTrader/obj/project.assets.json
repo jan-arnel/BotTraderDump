@@ -4503,11 +4503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VisualStudio\\BotTrader\\BotTrader\\BotTrader.csproj",
+      "projectUniqueName": "D:\\Projects\\Git\\BotTraderDump\\BotTrader\\BotTrader.csproj",
       "projectName": "BotTrader",
-      "projectPath": "D:\\Projects\\VisualStudio\\BotTrader\\BotTrader\\BotTrader.csproj",
+      "projectPath": "D:\\Projects\\Git\\BotTraderDump\\BotTrader\\BotTrader.csproj",
       "packagesPath": "C:\\Users\\Yeah\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VisualStudio\\BotTrader\\BotTrader\\obj\\",
+      "outputPath": "D:\\Projects\\Git\\BotTraderDump\\BotTrader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yeah\\AppData\\Roaming\\NuGet\\NuGet.Config",

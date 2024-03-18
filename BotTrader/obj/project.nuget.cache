@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mvsYJaagqRj3OB0X4RyIXWfY6dEFXoeVFrYEuhKjcxGZRwvlcoWZmdwn2j4vQjx59oqE1Ao4aZuEjlEap13PQ==",
+  "dgSpecHash": "uEVUh/PsQ1OQP6eL1GGleuK1YJwLEgHp0w9by1emN6w6qJTWmx+erlIZ674jA43KaPW5F0iNtRWUhTqIawxKuQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VisualStudio\\BotTrader\\BotTrader\\BotTrader.csproj",
+  "projectFilePath": "D:\\Projects\\Git\\BotTraderDump\\BotTrader\\BotTrader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yeah\\.nuget\\packages\\avalonia\\11.0.10\\avalonia.11.0.10.nupkg.sha512",
     "C:\\Users\\Yeah\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",
