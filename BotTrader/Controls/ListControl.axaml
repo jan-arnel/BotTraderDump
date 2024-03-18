@@ -1,0 +1,26 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 xmlns:vm="using:BotTrader.ViewModel"
+             x:Class="BotTrader.ListControl"
+			 x:DataType="vm:ListControlViewModel"
+			 x:CompileBindings="False">
+
+	<ListBox ItemsSource="{Binding ListData}" x:Name="listBox" Background="Transparent">
+		<ListBox.ItemTemplate>
+			<DataTemplate>
+				<Label Content="{Binding}" Foreground="Black" FontSize="12"/>
+			</DataTemplate>
+		</ListBox.ItemTemplate>
+
+		<ListBox.Styles>
+			<Style Selector="ListBoxItem">
+				<Setter Property="Padding" Value="0"/>
+				<Setter Property="Background" Value="Transparent"/>
+			</Style>
+		</ListBox.Styles>
+	</ListBox>
+	
+</UserControl>

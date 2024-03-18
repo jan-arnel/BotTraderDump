@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotTrader", "BotTrader\BotTrader.csproj", "{DC623FCF-DC44-46A4-8F38-45AF76AFED29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC623FCF-DC44-46A4-8F38-45AF76AFED29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC623FCF-DC44-46A4-8F38-45AF76AFED29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC623FCF-DC44-46A4-8F38-45AF76AFED29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC623FCF-DC44-46A4-8F38-45AF76AFED29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C453BCD3-3245-45F5-BD29-BD49C539532D}
+	EndGlobalSection
+EndGlobal
